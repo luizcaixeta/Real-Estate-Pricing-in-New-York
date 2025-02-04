@@ -5,15 +5,17 @@ Neste código foi desenvolvido o enunciado do Desafio Cientista de Dados - indic
 
 Para utiliza-lo, basta instalar as bibliotecas contidas em requirement.txt e garantir que esteja com os arquivos salvos no diretório.
 
-teste_indicium_precificacao
+teste_indicium_precificacao 
 
-MTA_Subway_Entrances_and_Exits__2024_20250129
+MTA_Subway_Entrances_and_Exits__2024_20250129 'https://data.ny.gov/Transportation/MTA-Subway-Entrances-and-Exits-2024/i9wp-a4ja/about_data'
 
-Bus_Stop_Shelter_20250201 - Bus_Stop_Shelter_20250201
+Bus_Stop_Shelter_20250201 - Bus_Stop_Shelter_20250201 'https://data.cityofnewyork.us/Transportation/Bus-Stop-Shelters/qafz-7myz'
 
-crimes_por_PTC
+crimes_por_PTC 'https://www.nyc.gov/site/nypd/stats/crime-statistics/historical.page'
 
-PTC_por_bairros
+PTC_por_bairros  'https://www.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page'
+
+**os arquivos já constam no repositório**
 
 Fazendo isso, os dados serão analisados, o modelo treinado e a previsão de 'price' calculada.
 
