@@ -13,8 +13,11 @@ In this project, we used a Kaggle dataset of Airbnb listings in New York City. W
 - Answer the following questions:
   
 a) Assuming that a person is thinking about investing in an apartment to rent on the platform, where would be the best place to buy?
+
 b) Do the minimum number of nights and availability throughout the year affect the price?
+
 c) Is there a pattern in the text of the place name for higher-value places?
+
 
 - Explain how price prediction can be made from the data. Which variables and/or their transformations were used and why? What type of problem are we solving (regression, classification)? Which model best approximates the data and what are its pros and cons? Which model performance measure was chosen and why?
 
@@ -45,8 +48,11 @@ Ensure the following files are in the project directory (already included in the
 Data sources:
 
 . 🚇 [NYC Subway Entrances and Exits (2024)](https://data.ny.gov/Transportation/MTA-Subway-Entrances-and-Exits-2024/i9wp-a4ja/about_data)
+
 . 🚌 [Bus Stop Shelters](https://data.cityofnewyork.us/Transportation/Bus-Stop-Shelters/qafz-7myz)
+
 . 📊 [Crime Statistics](https://www.nyc.gov/site/nypd/stats/crime-statistics/historical.page)
+
 . 🗺️ [Neighborhood Division by PTC](https://www.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page)
 
 4. Run the analysis and prediction:
