@@ -23,10 +23,10 @@ The answer for this questions is avalliable in the _________
 🚀 How to Run the Project
 
 1. Clone the repository:
-  ```git clone https://github.com/yourusername/nyc-real-estate-price-prediction.git```
+   
+```git clone https://github.com/yourusername/nyc-real-estate-price-prediction.git```
 
-
-3. Install dependencies:
+2. Install dependencies:
 
 Make sure Python is installed on your machine. Run the following command to install the required libraries
 
@@ -55,8 +55,8 @@ Data sources:
 
 ## 🛠️ Technologies Used
 
-. Python
-. Pandas, NumPy (Data manipulation)
-. Scikit-learn (Predictive modeling)
-. Matplotlib, Seaborn (Data visualization)
++ Python
++ Pandas, NumPy (Data manipulation)
++ Scikit-learn (Predictive modeling)
++ Matplotlib, Seaborn (Data visualization)
 
