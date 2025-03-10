@@ -1,6 +1,10 @@
 ## 🏠 NYC Real Estate Price Prediction
 
-In this project, we used a database from the website kaggle.com for Airbnb in New York. For a more advanced study, the real estate values ​​are related to data not contained in the database, such as: the crime rate in each neighborhood, the proximity of the properties to tourist attractions, subway stations and bus stops, in addition to extracting the number of bedrooms in each property through the name of the listing.
+In this project, we used a Kaggle dataset of Airbnb listings in New York City. We enhanced the analysis by incorporating external data that is not included in the dataset, such as:
+
++ Crime rates per neighborhood
++ Proximity to tourist attractions, subway stations, and bus stops
++ Extracting the number of bedrooms from the property names
 
 ## 📈 Project Objective
 
@@ -18,36 +22,31 @@ The answer for this questions is avalliable in the _________
 
 🚀 How to Run the Project
 
-1. Clone the repository
+1. Clone the repository:
+  ```git clone https://github.com/yourusername/nyc-real-estate-price-prediction.git```
 
-2. Install dependencies:
+
+3. Install dependencies:
 
 Make sure Python is installed on your machine. Run the following command to install the required libraries
 
 ```pip install -r requirements.txt``` 
 
-3. Ensure the following files are in the project directory:
+3. Required files:
 
-The files are already included in the repository:
+Ensure the following files are in the project directory (already included in the repository):
 
-. teste_indicium_precificacao
-
-. MTA_Subway_Entrances_and_Exits__2024_20250129
-
-. Bus_Stop_Shelter_20250201
-
-. crimes_por_PTC
-
-. PTC_por_bairros
++ teste_indicium_precificacao
++ MTA_Subway_Entrances_and_Exits__2024_20250129
++ Bus_Stop_Shelter_20250201
++ crimes_por_PTC
++ PTC_por_bairros
 
 Data sources:
 
 . 🚇 [NYC Subway Entrances and Exits (2024)](https://data.ny.gov/Transportation/MTA-Subway-Entrances-and-Exits-2024/i9wp-a4ja/about_data)
-
 . 🚌 [Bus Stop Shelters](https://data.cityofnewyork.us/Transportation/Bus-Stop-Shelters/qafz-7myz)
-
 . 📊 [Crime Statistics](https://www.nyc.gov/site/nypd/stats/crime-statistics/historical.page)
-
 . 🗺️ [Neighborhood Division by PTC](https://www.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page)
 
 4. Run the analysis and prediction:
@@ -57,10 +56,7 @@ Data sources:
 ## 🛠️ Technologies Used
 
 . Python
-
 . Pandas, NumPy (Data manipulation)
-
 . Scikit-learn (Predictive modeling)
-
 . Matplotlib, Seaborn (Data visualization)
 
